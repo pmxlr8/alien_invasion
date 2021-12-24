@@ -1,6 +1,6 @@
 # alien_invasion
-project from eric mathews book
-this is a project for course BCSE103N
-from pranjal mishra
-roll no 21BCE5088
+Project from eric mathew's book <br />
+This is a project for course BCSE103N <br />
+From pranjal mishra <br />
+Roll no 21BCE5088 <br />
 DIY project 
